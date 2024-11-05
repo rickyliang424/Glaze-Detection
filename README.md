@@ -1,1 +1,1 @@
-# glaze-detection
+# Glaze Defect Detection
